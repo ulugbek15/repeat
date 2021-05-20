@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/lemonada-v12-latin-regular.woff2') format('woff2'), 
+         url('../fonts/lemonada-v12-latin-regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'batmfa';
+    font-weight: 400;
+    src: url('../fonts/batmfa__.woff2') format('woff2');
+}
