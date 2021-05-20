@@ -5,5 +5,8 @@ body{
     font-family: 'batmfa';
 }
 h1{
+    background-color: #000;
+    color: gold;
     font-family: 'batmfa';
+    font-size: 50px;
 }
